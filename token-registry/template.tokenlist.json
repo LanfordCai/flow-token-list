@@ -31,8 +31,8 @@
       "name": "utility-token",
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
     },
-    "governance-tokendddddddddddddddddddddddddddddd": {
-      "name": "governance-tokendddddddddddddddddddddddddddddd",
+    "governance-token1": {
+      "name": "governance-token1",
       "description": "Tokens that are designed to be use in community governance and maintenance"
     }
   },
