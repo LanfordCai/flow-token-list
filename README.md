@@ -6,7 +6,7 @@ Following the Uniswap Token List specification found here: <https://github.com/U
 
 ## How to fetch Flow native token list
 
-Mainnet:
+Mainnet2:
 
 - From github: <https://raw.githubusercontent.com/FlowFans/flow-token-list/main/src/tokens/flow-mainnet.tokenlist.json>
 - From jsdelivr CDN: <https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/src/tokens/flow-mainnet.tokenlist.json>
